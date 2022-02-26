@@ -1,0 +1,22 @@
+body{
+  font-family: Sans-Serif;
+}
+.heading-cont{text-align: center;}
+
+h1{color:olive;}
+
+img{
+  width: 300px; height: 200px;
+  border:2px solid black;
+}
+
+p{text-align: justify;}
+
+.nav-cont{
+  display: flex;
+  justify-content: space-between;
+  margin-top:2rem;
+}
+
+a{color:#009ef2;}
+
