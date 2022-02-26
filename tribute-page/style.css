@@ -1,4 +1,7 @@
-body{body:.5rem;}
+body{
+  body:.5rem; max-width:900px;
+	margin:auto;
+}
 h1,#img{text-align: center;}
 figure{border:3px solid lightblue;padding:10px}
 h1{color:brown}
